@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muhammedahsanau
-- 👀 I’m interested in api development, AWS, Angular
-- 🌱 I’m currently learning ... Aws lambda ,Aws dynamoDB, Aws APIgateway
-- 💞️ I’m looking to collaborate on none
+- 👀 I’m interested in cloud and A.I
+- 🌱 I’m currently Working as a backend developer
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ... 📧 Muhammedahsan121@gmail.com  📞 03170317590 
 
 <!---
